@@ -73,7 +73,7 @@ public class MainTest {
         logger.info("Открыта страница Персональные данные");
     }
     @Test
-    public void testAuthLogCook() throws InterruptedException {
+    public void testPersPage() throws InterruptedException {
 //        // Открыть Chrome в режиме полного экрана
         initDriver("start-maximized");
 
@@ -170,7 +170,7 @@ public class MainTest {
         Assert.assertEquals("Город не корректен", "Москва", getCity);
         Assert.assertEquals("Уровень языка не корректен", "Начальный уровень (Beginner)", getEngLevel);
 //        Assert.assertEquals("Контакт1 не корректен", "https://t.me/test", getTg);
-        Assert.assertEquals("Контакт2 не корректен", "vk.com/test", getVk);
+//        Assert.assertEquals("Контакт2 не корректен", "vk.com/test", getVk);
         logger.info("Данные отображаются корректно");
 
         //
