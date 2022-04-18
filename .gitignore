@@ -1,0 +1,10 @@
+# IntellijIdea files
+*.iml
+.idea/
+out/
+.libraries/
+target/
+*.zip
+.idea
+*/target
+*.iml

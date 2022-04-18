@@ -1,0 +1,496 @@
+2022-04-02 20:29:04,005 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 20:29:06,426 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 20:29:07,982 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 20:29:14,155 INFO MainTest [main] Начали печатать cookies
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743528552
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 07f96b19-3f9b-a7a5-9f19-25263613b438
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =sessionid , cookie value = ayaigocjkl1ahn77nzia5knclrtij1g3
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1895378400.1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648920549658323828
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1907679266.1648920549
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =auth_token , cookie value = vxOtx82rRvX34Xo3HpZFuw
+2022-04-02 20:29:14,156 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 134067a2-9a95-ff98-5249-2d301da8128e
+2022-04-02 20:29:14,157 INFO MainTest [main] Закончили печатать cookies
+2022-04-02 20:30:59,950 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 20:31:02,632 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 20:31:03,909 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 20:31:09,761 INFO MainTest [main] Начали печатать cookies
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743528669
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =advcake_track_id , cookie value = a51738fe-0137-e60f-5215-73d468f3f25a
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =sessionid , cookie value = bxush36ltl908dph5en9s8ojl4xj17vc
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648920665
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1035413914.1648920666
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648920665844611113
+2022-04-02 20:31:09,761 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.291004718.1648920666
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =auth_token , cookie value = rtVnJo5JZ2RMKVrlxYEn-w
+2022-04-02 20:31:09,762 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 4f57d039-6a76-bb40-e6db-b53e060eafd0
+2022-04-02 20:31:09,762 INFO MainTest [main] Закончили печатать cookies
+2022-04-02 21:34:38,272 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:35:26,789 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:44:29,291 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:46:10,228 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:50:05,361 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:50:54,976 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:52:08,075 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:56:08,143 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 21:59:12,050 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:00:12,809 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:12:06,109 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-02 22:12:13,464 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-02 22:12:20,183 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-02 22:12:29,026 INFO MainTest [main] Начали печатать cookies
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743534654
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 9c71b00c-917e-3094-8a7a-8a4dd40aadd2
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =sessionid , cookie value = gfcz2vrnuckouz5k5acmmkipw1an9uix
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648926743
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-02 22:12:29,026 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1918245819.1648926743
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648926743611551001
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-02 22:12:29,027 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-02 22:12:29,028 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.129235258.1648926743
+2022-04-02 22:12:29,029 INFO MainTest [main] cookie name =auth_token , cookie value = xJal4PcoynPFJV1XiscXwA
+2022-04-02 22:12:29,029 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 622031b9-8b1d-4bb5-db87-209c69220d17
+2022-04-02 22:12:29,029 INFO MainTest [main] Закончили печатать cookies
+2022-04-03 17:53:44,697 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 17:54:14,893 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 18:12:02,147 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-03 18:12:09,488 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-03 18:12:13,205 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-03 18:12:23,362 INFO MainTest [main] Начали печатать cookies
+2022-04-03 18:12:23,362 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743606646
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =advcake_track_id , cookie value = ec2b2b17-bede-adb2-f1aa-4bd23b71f186
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =sessionid , cookie value = y2dcr0ss0ombk8shz5esdlwci6tan3xb
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =_ym_d , cookie value = 1648998736
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-03 18:12:23,363 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.276799646.1648998736
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1648998736606211642
+2022-04-03 18:12:23,364 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1151761614.1648998736
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =auth_token , cookie value = hXY182H7G0shmOSowqgejg
+2022-04-03 18:12:23,365 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 3d67c545-02b2-6d1c-2bb7-85399a7a7fac
+2022-04-03 18:12:23,365 INFO MainTest [main] Закончили печатать cookies
+2022-04-04 15:10:05,590 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-04 15:10:22,240 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-04 15:10:32,481 INFO MainTest [main] Начали печатать cookies
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1743682137
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 4620f0b2-786a-a340-3839-14f8354201a9
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =sessionid , cookie value = 2chtkl8m0uwcpkbsajd3zlop7cqhb0en
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =_ym_d , cookie value = 1649074225
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1005071000.1649074229
+2022-04-04 15:10:32,482 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =_ym_uid , cookie value = 16490742251033432121
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.918651399.1649074229
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =auth_token , cookie value = wjvRtkA0jhh__gH2wwrD2A
+2022-04-04 15:10:32,483 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 97f69bc8-05f6-9f8a-845e-1e3a7fbf08b9
+2022-04-04 15:10:32,483 INFO MainTest [main] Закончили печатать cookies
+2022-04-04 15:10:34,241 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 12:32:14,318 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 12:43:18,077 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-08 13:32:56,465 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-08 13:33:02,611 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-08 13:33:09,478 INFO MainTest [main] Начали печатать cookies
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1744021894
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =advcake_track_id , cookie value = d026535e-f632-d54f-84ed-db56cf674d9f
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =sessionid , cookie value = e5ufshnqiaqxgr8sv6thhmq1r37cx1k7
+2022-04-08 13:33:09,479 INFO MainTest [main] cookie name =_ym_d , cookie value = 1649413983
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1392927321.1649413984
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1649413983616757703
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-08 13:33:09,480 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1874976240.1649413984
+2022-04-08 13:33:09,481 INFO MainTest [main] cookie name =auth_token , cookie value = lqDiOknAUclQGckNTaQTiA
+2022-04-08 13:33:09,481 INFO MainTest [main] cookie name =advcake_session_id , cookie value = bb726224-8420-49d3-fede-68be32309dfe
+2022-04-08 13:33:09,481 INFO MainTest [main] Закончили печатать cookies
+2022-04-08 13:33:11,192 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-17 21:23:40,724 INFO MainTest [main] Драйвер поднят в режиме = headless
+2022-04-17 21:23:48,267 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 21:24:01,612 INFO MainTest [main] Начали печатать cookies
+2022-04-17 21:24:01,612 INFO MainTest [main] cookie name =auth_token_expires , cookie value = 1744827738
+2022-04-17 21:24:01,613 INFO MainTest [main] cookie name =advcake_track_id , cookie value = 3788ec0d-c8c0-b728-0cf8-94dc110d0dd9
+2022-04-17 21:24:01,613 INFO MainTest [main] cookie name =sessionid , cookie value = v3wmrwlh19i584r69wlcpxr1p5u6k8i1
+2022-04-17 21:24:01,613 INFO MainTest [main] cookie name =_ym_d , cookie value = 1650219831
+2022-04-17 21:24:01,613 INFO MainTest [main] cookie name =oid , cookie value = 116291c02df70ec6d473c5ecc5de0fc4
+2022-04-17 21:24:01,614 INFO MainTest [main] cookie name =_ym_visorc , cookie value = w
+2022-04-17 21:24:01,614 INFO MainTest [main] cookie name =_gid , cookie value = GA1.2.1767687066.1650219831
+2022-04-17 21:24:01,614 INFO MainTest [main] cookie name =utm , cookie value = utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone
+2022-04-17 21:24:01,614 INFO MainTest [main] cookie name =_ym_uid , cookie value = 1650219831419489064
+2022-04-17 21:24:01,615 INFO MainTest [main] cookie name =_ym_isad , cookie value = 2
+2022-04-17 21:24:01,615 INFO MainTest [main] cookie name =_gat , cookie value = 1
+2022-04-17 21:24:01,615 INFO MainTest [main] cookie name =_ga , cookie value = GA1.2.1498786938.1650219831
+2022-04-17 21:24:01,616 INFO MainTest [main] cookie name =auth_token , cookie value = ilJotSbBGEAIeshpapnlXw
+2022-04-17 21:24:01,616 INFO MainTest [main] cookie name =advcake_session_id , cookie value = 8d21e186-203f-fb44-a879-5dee5100f312
+2022-04-17 21:24:01,616 INFO MainTest [main] Закончили печатать cookies
+2022-04-17 21:24:03,490 INFO MainTest [main] Драйвер поднят в режиме = --kiosk
+2022-04-17 21:54:41,021 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 21:54:47,560 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:11:50,531 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:11:57,063 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:16:32,120 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:16:39,237 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:21:36,415 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:21:43,153 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:34:16,612 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:34:24,209 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:34:26,977 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:34:49,756 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:34:57,756 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:34:59,923 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:42:22,980 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:42:29,751 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:42:32,117 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:51:47,696 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:51:55,967 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:51:58,335 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:52:42,002 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:52:50,421 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:52:55,951 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:54:20,745 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:54:27,692 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:54:30,657 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:54:59,005 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:55:06,307 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:55:08,675 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 22:55:48,866 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 22:55:56,414 INFO MainTest [main] Пользователь авторизован
+2022-04-17 22:55:58,894 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:00:52,586 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:00:59,282 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:01:01,458 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:01:02,560 INFO MainTest [main] Телефон добавлен
+2022-04-17 23:02:21,451 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:02:28,404 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:02:31,316 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:02:32,378 INFO MainTest [main] Телефон добавлен
+2022-04-17 23:03:06,983 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:03:13,654 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:03:16,044 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:03:17,106 INFO MainTest [main] Телефон добавлен
+2022-04-17 23:12:03,398 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:12:10,628 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:12:13,626 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:27:40,517 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:27:47,062 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:27:50,096 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:33:43,426 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:33:51,415 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:33:53,474 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:36:09,935 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:36:17,694 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:36:21,024 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-17 23:37:55,503 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-17 23:38:03,918 INFO MainTest [main] Пользователь авторизован
+2022-04-17 23:38:06,733 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:03:38,751 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:03:46,361 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:03:49,073 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:04:28,789 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:04:35,356 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:04:37,910 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:05:16,273 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:05:22,630 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:05:25,222 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:06:27,279 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:06:33,836 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:06:36,621 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:07:31,345 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:07:37,978 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:07:40,533 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:08:20,135 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:08:27,306 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:08:30,196 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:11:21,471 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:11:27,997 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:11:30,319 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:11:32,018 INFO MainTest [main] Данные сохранены
+2022-04-18 00:12:31,876 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:12:38,529 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:12:41,039 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:12:42,709 INFO MainTest [main] Данные сохранены
+2022-04-18 00:13:40,557 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:13:48,588 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:13:51,063 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:13:54,951 INFO MainTest [main] Данные сохранены
+2022-04-18 00:27:52,469 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:28:00,282 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:28:02,854 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:29:44,071 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:29:50,714 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:29:53,071 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:32:57,408 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:33:06,018 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:33:08,386 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:34:04,918 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:34:11,698 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:34:14,099 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:35:23,070 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:35:30,253 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:35:33,164 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:35:58,557 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:36:05,350 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:36:07,848 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:36:44,232 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:36:51,556 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:36:54,861 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:43:31,427 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:43:38,811 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:43:41,833 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 00:45:29,685 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 00:45:36,536 INFO MainTest [main] Пользователь авторизован
+2022-04-18 00:45:39,711 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 01:05:16,759 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 01:05:23,280 INFO MainTest [main] Пользователь авторизован
+2022-04-18 01:05:27,288 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 10:51:37,026 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 10:51:45,525 INFO MainTest [main] Пользователь авторизован
+2022-04-18 10:51:48,041 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 10:53:03,765 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 10:53:11,170 INFO MainTest [main] Пользователь авторизован
+2022-04-18 10:53:13,654 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 10:56:14,055 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 10:56:21,425 INFO MainTest [main] Пользователь авторизован
+2022-04-18 10:56:24,831 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 10:58:50,594 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 10:58:58,211 INFO MainTest [main] Пользователь авторизован
+2022-04-18 10:59:00,677 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:00:31,103 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:00:38,920 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:00:41,638 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:01:36,300 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:01:43,756 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:01:46,566 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:12:03,810 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:12:10,539 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:12:13,183 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:31:42,537 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:31:52,348 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:31:56,112 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:50:49,440 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:50:57,255 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:51:00,754 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 11:57:00,053 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 11:57:06,910 INFO MainTest [main] Пользователь авторизован
+2022-04-18 11:57:09,589 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:04:37,013 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:04:44,059 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:04:46,509 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:36:40,063 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:36:48,117 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:36:50,626 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:44:17,410 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:44:24,014 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:44:26,945 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:49:16,348 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:49:23,082 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:49:25,617 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:50:23,270 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:50:30,999 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:50:33,618 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:51:15,511 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:51:22,733 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:51:25,429 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:52:06,152 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:52:13,079 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:52:15,398 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:52:55,405 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:53:02,179 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:53:04,648 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:54:30,055 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:54:37,697 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:54:39,880 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:55:40,773 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:55:47,753 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:55:50,834 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:56:42,528 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:56:49,632 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:56:51,907 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 12:58:46,403 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 12:58:54,232 INFO MainTest [main] Пользователь авторизован
+2022-04-18 12:58:56,474 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:00:58,967 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:01:05,823 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:01:08,417 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:05:23,911 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:05:31,303 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:05:34,198 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:06:09,227 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:06:16,364 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:06:19,670 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:07:08,505 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:07:15,782 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:07:18,392 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:07:52,230 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:08:00,134 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:08:02,566 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:08:30,870 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:08:39,186 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:08:42,252 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:13:26,548 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:13:33,919 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:13:37,131 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:14:29,524 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:14:36,480 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:14:39,605 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:14:47,149 INFO MainTest [main] Данные сохранены
+2022-04-18 13:23:43,923 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:23:51,368 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:23:53,922 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:30:19,352 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:30:27,593 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:30:29,869 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:30:35,449 INFO MainTest [main] Данные добавлены
+2022-04-18 13:30:37,182 INFO MainTest [main] Данные сохранены
+2022-04-18 13:31:58,263 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:32:06,115 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:32:08,412 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:32:13,492 INFO MainTest [main] Данные добавлены
+2022-04-18 13:32:15,233 INFO MainTest [main] Данные сохранены
+2022-04-18 13:37:28,747 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:37:36,075 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:37:42,119 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:38:17,028 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:38:24,804 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:38:29,107 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:39:17,401 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:39:25,170 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:39:27,637 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:41:58,879 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:42:07,302 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:42:09,561 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:43:43,260 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:43:50,144 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:43:52,465 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:45:01,020 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:45:08,119 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:45:10,438 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:46:19,022 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:46:27,439 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:46:29,866 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:46:35,127 INFO MainTest [main] Данные добавлены
+2022-04-18 13:46:37,052 INFO MainTest [main] Данные сохранены
+2022-04-18 13:53:37,830 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:53:45,126 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:53:47,659 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:54:39,084 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:54:46,046 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:54:48,297 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:54:53,120 INFO MainTest [main] Данные добавлены
+2022-04-18 13:54:54,880 INFO MainTest [main] Данные сохранены
+2022-04-18 13:54:56,778 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:55:03,160 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:56:06,990 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:56:13,463 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:56:15,938 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:56:20,806 INFO MainTest [main] Данные добавлены
+2022-04-18 13:56:22,905 INFO MainTest [main] Данные сохранены
+2022-04-18 13:56:25,192 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:56:32,682 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:56:35,126 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 13:59:35,348 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 13:59:44,037 INFO MainTest [main] Пользователь авторизован
+2022-04-18 13:59:46,323 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:00:31,501 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:00:38,887 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:00:41,476 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:00:46,389 INFO MainTest [main] Данные добавлены
+2022-04-18 14:00:48,512 INFO MainTest [main] Данные сохранены
+2022-04-18 14:00:50,450 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:00:57,199 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:00:59,706 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:04:38,728 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:04:47,866 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:04:50,408 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:04:55,279 INFO MainTest [main] Данные добавлены
+2022-04-18 14:04:56,933 INFO MainTest [main] Данные сохранены
+2022-04-18 14:04:59,055 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:05:05,962 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:05:08,138 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:05:08,197 INFO MainTest [main] Данные отображаются корректно
+2022-04-18 14:09:34,130 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:09:41,218 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:09:44,552 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:09:49,447 INFO MainTest [main] Данные добавлены
+2022-04-18 14:09:51,208 INFO MainTest [main] Данные сохранены
+2022-04-18 14:09:53,371 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:09:59,743 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:10:03,288 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:12:42,659 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:12:49,664 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:12:52,222 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:12:57,413 INFO MainTest [main] Данные добавлены
+2022-04-18 14:12:59,405 INFO MainTest [main] Данные сохранены
+2022-04-18 14:13:01,372 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:13:07,742 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:13:11,028 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:14:29,789 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:14:37,563 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:14:40,488 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:15:19,380 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:15:27,955 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:15:31,550 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:16:32,149 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:16:39,323 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:16:42,186 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:16:47,134 INFO MainTest [main] Данные добавлены
+2022-04-18 14:16:48,889 INFO MainTest [main] Данные сохранены
+2022-04-18 14:16:50,526 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:16:57,944 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:17:00,103 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:18:49,391 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:18:56,112 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:18:58,950 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:19:33,952 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:19:45,646 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:19:48,922 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:20:20,642 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:20:29,627 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:20:32,977 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:22:00,697 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:22:10,068 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:22:13,926 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:22:42,710 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:22:53,444 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:22:56,691 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:23:22,921 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:23:31,024 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:23:33,985 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:24:15,854 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:24:26,102 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:24:29,001 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:25:12,815 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:25:21,101 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:25:24,480 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:26:14,537 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:26:25,038 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:26:28,694 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:27:03,060 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:27:13,194 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:27:16,125 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:27:46,599 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:27:56,189 INFO MainTest [main] Пользователь авторизован
+2022-04-18 14:27:59,099 INFO MainTest [main] Открыта страница Персональные данные
+2022-04-18 14:28:24,461 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
+2022-04-18 14:30:33,009 INFO MainTest [main] Драйвер поднят в режиме = start-maximized
