@@ -56,7 +56,7 @@ public class MainTest {
 	//Перейти на https://otus.ru + авторизация
 	private void authNew() {
 		//Перейти на https://otus.ru
-		driver.get(serverConfig.otusUrl());
+		driver.get(System.getProperty("base.url"));
 
 		//Авторизоваться на сайте
 		driver.findElement(By.xpath("//span[@class='header2__auth-reg']")).click();
