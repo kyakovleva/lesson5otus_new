@@ -216,13 +216,13 @@ public class MainTest {
 	private void fillCountryData() {
 		WebElement country = driver.findElement(By.xpath("//input[@name='country']/following-sibling::div"));//Страна
 		country.click();
-		WebElement countryList = driver.findElement(By.xpath("//div[contains(@class,'lk-cv-block__select-scroll_country')]/button[2]"));
+		WebElement countryList = driver.findElement(By.xpath("//div[contains(@class,'lk-cv-block__select-scroll_country')]/button[@title='Россия']"));
 		countryList.click();
 
 		WebElement city = driver.findElement(By.xpath("//input[@name='city']/following-sibling::div"));//Город
 		waitUntilTextPresents(city, "Город");
 		city.click();
-		WebElement cityList = driver.findElement(By.xpath("//div[contains(@class,'lk-cv-block__select-scroll_city')]/button[2]"));
+		WebElement cityList = driver.findElement(By.xpath("//div[contains(@class,'lk-cv-block__select-scroll_city')]/button[@title='Москва']"));
 		cityList.click();
 
 		WebElement engLevel = driver.findElement(By.xpath("//input[@name='english_level']/following-sibling::div")); //Уровень английского
